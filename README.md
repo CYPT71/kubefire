@@ -128,7 +128,7 @@ worker:
   disk_size: 10GB
 
 # Create a cluster with the config file
-❯ kubeifre cluster create demo --config=cluster.yaml
+❯ kubefire cluster create demo --config=cluster.yaml
 ```
 
 ### Bootstrapping with selectable Kubernetes versions
